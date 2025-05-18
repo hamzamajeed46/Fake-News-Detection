@@ -18,13 +18,13 @@ Install dependencies with:
 
 ```bash
 pip install tensorflow==2.16.1 flask scikit-learn numpy pandas matplotlib
+```
 
 ## Run Flask Application
 Run the Flask app to start the web server:
-
-
 ```bash
 python app.py
+```
 
 Navigate to:
     http://127.0.0.1:5000/
